@@ -1,10 +1,10 @@
-import ModelComponent from "./ModelComponen";
+import QnAComponent from "./QnAComponent";
 import "./App.css";
 
 function App() {
   return (
     <div className="container">
-      <ModelComponent />
+      <QnAComponent />
     </div>
   );
 }
