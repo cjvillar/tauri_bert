@@ -13,7 +13,7 @@ npm run dev
 
 build app
 ```bash
-npm tauri run build
+npm run tauri build
 ```
 
 
