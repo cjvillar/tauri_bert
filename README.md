@@ -2,7 +2,9 @@
 This is A Work In Progress (WIP).
 
 
-A tauri based app for running mobileBert QA model.
+A tauri based app for running tensorflow-models/qna model.
+
+
 
 run in browser
 ```bash
