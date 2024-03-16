@@ -19,5 +19,6 @@ npm tauri run build
 
 
 Example app run:
-<img src="example.png" alt="screenshot" height="400" width="200"/>
+
+<img src="example.png" alt="screenshot" height="600" width="500"/>
 
