@@ -65,13 +65,13 @@ const QnAComponent = () => {
           value={passage}
           onChange={handlePassageChange}
         />
-        <div
+        {/* <div
           className="drop-box"
           onDrop={handleFileDrop}
           onDragOver={(e) => e.preventDefault()}
         >
           Drop a text file here or type/paste the passage above.
-        </div>
+        </div> */}
       </div>
       {isLoading && (
         <div className="spinner">
